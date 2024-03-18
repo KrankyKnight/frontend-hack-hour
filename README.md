@@ -1,4 +1,4 @@
 # Repo for practicing React Challenges
 
-# npm i
-# npm run dev
+## npm i
+## npm run dev
